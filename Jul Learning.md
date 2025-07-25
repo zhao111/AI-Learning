@@ -7,7 +7,7 @@
 ## Todo
 - [ ] Learn how to write in Github with right formula → make me more like a geek
 
-# 7.24
+# 7.25
 ## What I learnt
 ChatGPT Tutorial
 ## Some practice I tried
@@ -19,4 +19,3 @@ ChatGPT Tutorial
 根据我提供的运动量消耗，单位kcal，最终\
 计算出我当天的热量缺口 = 营养摄入 -  基础代谢 - 运动消耗\
 具体要求：1. 如果无法提供具体的热量数据，则提供一个区间热量即可。2. 注意你仅记录与计算我告诉你的饮食。3. 计算基础代谢的方案请和我确认。4. 以表格的方式输出
-'''
